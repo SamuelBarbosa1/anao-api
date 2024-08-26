@@ -27,8 +27,8 @@ services:
     environment:
       - DB_HOST=db
       - DB_PORT=5432
-      - DB_USER=root
-      - DB_PASSWORD=root
+      - DB_USER=postgres
+      - DB_PASSWORD=1234
       - DB_NAME=anao_db
 
 networks:
