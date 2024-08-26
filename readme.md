@@ -1,0 +1,29 @@
+TABELA DE PREÇOS DE ANÕES:
+
+- Anão boliviano: R$ 170,86  
+- Anão russo: R$ 104,57  
+- Anão argentino: R$ 10,99  
+- Anão colombiano: R$ 260,45  
+- Anão rebaixado (edição especial): R$ 456,79  
+- Anão latino: R$ 159,99  
+- Anão kppoper:   
+- Anão baiano: R$ 10.000,00  
+- Anão blindado: R$ 345,49  
+- Anão cachaceiro: R$ 68,99  
+- Anão amadeirado: R$ 112,10  
+- Filhote de anão: $20  
+- Anão cabeçudo cearense: R$ 1.059,49  
+- Anão petista: R$ 468,45  
+- Anão orgânico: R$ 420,00  
+- Anão com pau: R$ 6.969,00  
+- Anão lombrado: R$ 40,20  
+- Anão industrializado (dano maciço na camada de ozônio): R$ 690,00  
+- Anão importado: US$ 200,00 (R$ 1.052)  
+- Anão que toca tuba: R$ 340  
+- Anão Goldfinger: 10 mil em ouro  
+- Anão mineiro: 2 queijos de 350g  
+- Anão 12 anos (envelhecido no tonel de carvalho): US$ 32.000,00 (R$ 168.230,40)  
+- Anão piloto de fuga: R$ 4.500,09  
+- Anão Judeu: R$ 50,00  
+- Anão alto: R$ 100.000,00  
+- Anão careca: R$ 145,00

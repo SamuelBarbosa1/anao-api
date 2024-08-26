@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: anao_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - backend
+
+  app:
+    build: .
+    container_name: anao-api
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    networks:
+      - backend
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USER=root
+      - DB_PASSWORD=root
+      - DB_NAME=anao_db
+
+networks:
+  backend:
+
+volumes:
+  postgres-data:
